@@ -1,0 +1,6 @@
+mlflow==1.2.0
+lightgbm
+xgboost
+numpy
+pandas
+
